@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperFastDelivery", "SuperFastDelivery\SuperFastDelivery.csproj", "{E62BB1BE-8918-4F3E-98AD-FB92F838B34E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFD.BAL", "SFD.BAL\SFD.BAL.csproj", "{1FECFA00-FE5B-4481-A411-6F147C6919A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFD.DAL", "SFD.DAL\SFD.DAL.csproj", "{50486D33-5CC3-407B-9375-B013DD87DF8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E62BB1BE-8918-4F3E-98AD-FB92F838B34E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E62BB1BE-8918-4F3E-98AD-FB92F838B34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E62BB1BE-8918-4F3E-98AD-FB92F838B34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E62BB1BE-8918-4F3E-98AD-FB92F838B34E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FECFA00-FE5B-4481-A411-6F147C6919A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FECFA00-FE5B-4481-A411-6F147C6919A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FECFA00-FE5B-4481-A411-6F147C6919A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FECFA00-FE5B-4481-A411-6F147C6919A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50486D33-5CC3-407B-9375-B013DD87DF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50486D33-5CC3-407B-9375-B013DD87DF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50486D33-5CC3-407B-9375-B013DD87DF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50486D33-5CC3-407B-9375-B013DD87DF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

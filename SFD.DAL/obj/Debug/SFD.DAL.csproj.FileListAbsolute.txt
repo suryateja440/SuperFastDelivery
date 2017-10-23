@@ -1,0 +1,7 @@
+C:\Users\surya\documents\visual studio 2015\Projects\SuperFastDelivery\SFD.DAL\bin\Debug\SFD.DAL.dll
+C:\Users\surya\documents\visual studio 2015\Projects\SuperFastDelivery\SFD.DAL\bin\Debug\SFD.DAL.pdb
+C:\Users\surya\documents\visual studio 2015\Projects\SuperFastDelivery\SFD.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\surya\documents\visual studio 2015\Projects\SuperFastDelivery\SFD.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\surya\documents\visual studio 2015\Projects\SuperFastDelivery\SFD.DAL\obj\Debug\SFD.DAL.csprojResolveAssemblyReference.cache
+C:\Users\surya\documents\visual studio 2015\Projects\SuperFastDelivery\SFD.DAL\obj\Debug\SFD.DAL.dll
+C:\Users\surya\documents\visual studio 2015\Projects\SuperFastDelivery\SFD.DAL\obj\Debug\SFD.DAL.pdb
