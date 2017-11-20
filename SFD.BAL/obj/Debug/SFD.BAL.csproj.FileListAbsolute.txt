@@ -7,3 +7,5 @@ C:\Users\surya\documents\visual studio 2015\Projects\SuperFastDelivery\SFD.BAL\b
 C:\Users\surya\documents\visual studio 2015\Projects\SuperFastDelivery\SFD.BAL\obj\Debug\SFD.BAL.csprojResolveAssemblyReference.cache
 C:\Users\surya\documents\visual studio 2015\Projects\SuperFastDelivery\SFD.BAL\obj\Debug\SFD.BAL.dll
 C:\Users\surya\documents\visual studio 2015\Projects\SuperFastDelivery\SFD.BAL\obj\Debug\SFD.BAL.pdb
+C:\Users\surya\Documents\Visual Studio 2015\Projects\SuperFastDelivery\SFD.BAL\bin\Debug\SFD.CommonClasses.dll
+C:\Users\surya\Documents\Visual Studio 2015\Projects\SuperFastDelivery\SFD.BAL\bin\Debug\SFD.CommonClasses.pdb

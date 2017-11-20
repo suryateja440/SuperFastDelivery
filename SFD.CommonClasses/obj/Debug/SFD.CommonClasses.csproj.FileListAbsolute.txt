@@ -1,0 +1,7 @@
+C:\Users\surya\Documents\Visual Studio 2015\Projects\SuperFastDelivery\SFD.CommonClasses\bin\Debug\SFD.CommonClasses.dll
+C:\Users\surya\Documents\Visual Studio 2015\Projects\SuperFastDelivery\SFD.CommonClasses\bin\Debug\SFD.CommonClasses.pdb
+C:\Users\surya\Documents\Visual Studio 2015\Projects\SuperFastDelivery\SFD.CommonClasses\bin\Debug\Newtonsoft.Json.dll
+C:\Users\surya\Documents\Visual Studio 2015\Projects\SuperFastDelivery\SFD.CommonClasses\bin\Debug\Newtonsoft.Json.xml
+C:\Users\surya\Documents\Visual Studio 2015\Projects\SuperFastDelivery\SFD.CommonClasses\obj\Debug\SFD.CommonClasses.csprojResolveAssemblyReference.cache
+C:\Users\surya\Documents\Visual Studio 2015\Projects\SuperFastDelivery\SFD.CommonClasses\obj\Debug\SFD.CommonClasses.dll
+C:\Users\surya\Documents\Visual Studio 2015\Projects\SuperFastDelivery\SFD.CommonClasses\obj\Debug\SFD.CommonClasses.pdb

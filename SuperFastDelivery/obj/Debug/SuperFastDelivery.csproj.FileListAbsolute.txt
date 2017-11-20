@@ -37,3 +37,5 @@ C:\Users\surya\documents\visual studio 2015\Projects\SuperFastDelivery\SuperFast
 C:\Users\surya\documents\visual studio 2015\Projects\SuperFastDelivery\SuperFastDelivery\bin\SFD.DAL.dll
 C:\Users\surya\documents\visual studio 2015\Projects\SuperFastDelivery\SuperFastDelivery\bin\SFD.BAL.pdb
 C:\Users\surya\documents\visual studio 2015\Projects\SuperFastDelivery\SuperFastDelivery\bin\SFD.DAL.pdb
+C:\Users\surya\Documents\Visual Studio 2015\Projects\SuperFastDelivery\SuperFastDelivery\bin\SFD.CommonClasses.dll
+C:\Users\surya\Documents\Visual Studio 2015\Projects\SuperFastDelivery\SuperFastDelivery\bin\SFD.CommonClasses.pdb

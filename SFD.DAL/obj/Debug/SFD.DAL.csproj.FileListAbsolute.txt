@@ -5,3 +5,5 @@ C:\Users\surya\documents\visual studio 2015\Projects\SuperFastDelivery\SFD.DAL\b
 C:\Users\surya\documents\visual studio 2015\Projects\SuperFastDelivery\SFD.DAL\obj\Debug\SFD.DAL.csprojResolveAssemblyReference.cache
 C:\Users\surya\documents\visual studio 2015\Projects\SuperFastDelivery\SFD.DAL\obj\Debug\SFD.DAL.dll
 C:\Users\surya\documents\visual studio 2015\Projects\SuperFastDelivery\SFD.DAL\obj\Debug\SFD.DAL.pdb
+C:\Users\surya\Documents\Visual Studio 2015\Projects\SuperFastDelivery\SFD.DAL\bin\Debug\SFD.CommonClasses.dll
+C:\Users\surya\Documents\Visual Studio 2015\Projects\SuperFastDelivery\SFD.DAL\bin\Debug\SFD.CommonClasses.pdb
