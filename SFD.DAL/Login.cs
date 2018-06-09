@@ -157,7 +157,7 @@ namespace SFD.DAL
         }
         public void logout()
         {
-            string message = "logout successfully";
+            string message = "logout successfully origin";
         }
     }
 }
