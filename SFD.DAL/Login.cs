@@ -155,5 +155,9 @@ namespace SFD.DAL
             }
             return jobj;
         }
+        public void logout()
+        {
+            string message = "logout successfully";
+        }
     }
 }
