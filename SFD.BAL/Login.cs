@@ -15,6 +15,7 @@ namespace SFD.BAL
         }
         public DataSet DownloadtoExcel()
         {
+            string message = "";
             JObject jobj = new JObject();
             DataSet ds = new DataSet();
             SFD.DAL.Login lgn = new DAL.Login();
